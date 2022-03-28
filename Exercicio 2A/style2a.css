@@ -1,0 +1,17 @@
+.container {
+    height: 50px;
+    width: 50px;
+    border: solid 2px green;
+    margin-top: 100px;
+}
+
+.container2 {
+    background-color: black;
+    height: 50vh;
+    width: 50%;
+    border: solid 10px red;
+    border-style: dashed;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
